@@ -34,7 +34,7 @@ ro.vendor.display.paneltype=2
 vendor.display.defer_fps_frame_count=2
 
 # TouchFeature
-ro.vendor.touchfeature.type=43
+ro.vendor.touchfeature.type=183
 
 # Haptics
 sys.haptic.motor=linear
