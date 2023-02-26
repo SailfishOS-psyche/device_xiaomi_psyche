@@ -68,7 +68,7 @@ ro.vendor.xiaomi.bl.poll=true
 vendor.hbm.enable=true
 
 # TouchFeature
-ro.vendor.touchfeature.type=43
+ro.vendor.touchfeature.type=183
 
 # Haptics
 sys.haptic.motor=linear
