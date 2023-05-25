@@ -1009,7 +1009,7 @@
     </path>
     <!-- Dual MIC devices -->
     <path name="handset-dmic-endfire">
-        <ctl name="TX_CDC_DMA_TX_3 Channels" value="Two" />
+        <ctl name="TX_CDC_DMA_TX_3 Channels" value="One" />
         <ctl name="TX DEC0 MUX" value="SWR_MIC"/>
         <ctl name="TX SMIC MUX0" value="ADC0" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
@@ -1024,7 +1024,7 @@
     </path>
 
     <path name="speaker-dmic-endfire">
-        <ctl name="TX_CDC_DMA_TX_3 Channels" value="Two" />
+        <ctl name="TX_CDC_DMA_TX_3 Channels" value="One" />
         <ctl name="TX DEC0 MUX" value="SWR_MIC"/>
         <ctl name="TX SMIC MUX0" value="ADC0" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
