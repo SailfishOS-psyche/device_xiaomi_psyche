@@ -32,4 +32,7 @@
 
     <!-- the padding on the top of the statusbar (usually 0) -->
     <dimen name="status_bar_padding_top">1px</dimen>
+
+    <!-- decrease keyguard bottom info margim -->
+    <dimen name="keyguard_indication_margin_bottom">4dp</dimen>
 </resources>
