@@ -1,0 +1,2 @@
+# Multi-Gen LRU
+persist.device_config.mglru_native.lru_gen_config=core_and_mm_walk
