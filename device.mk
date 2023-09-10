@@ -49,6 +49,13 @@ PRODUCT_PACKAGES += \
     vendor.goodix.hardware.biometrics.fingerprint@2.1.vendor \
     libudfpshandler
 
+# Sensors
+PRODUCT_PACKAGES += \
+    sensors.udfps
+
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf
+
 # Shipping API level
 BOARD_API_LEVEL := 30
 BOARD_SHIPPING_API_LEVEL := $(BOARD_API_LEVEL)
