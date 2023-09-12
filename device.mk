@@ -39,6 +39,12 @@ PRODUCT_COPY_FILES += \
 # Miui Camera
 $(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 
+# Nfc
+PRODUCT_SYSTEM_PROPERTIES += \
+    ro.boot.hardware.sku=psyche
+
+PRODUCT_PACKAGES += PsycheNfc
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
