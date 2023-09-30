@@ -1,0 +1,2 @@
+# Battery
+type vendor_sysfs_qcom_battery, fs_type, sysfs_type;
