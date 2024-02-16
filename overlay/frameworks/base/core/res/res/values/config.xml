@@ -423,13 +423,7 @@
                 <string ...>M -5,0 L -5,10 L 5,10 L 5,0 Z @dp</string>
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
-    <string translatable="false" name="config_mainBuiltInDisplayCutout">
-        M -23,52
-        M 23,52
-        A 23,23 0 1,0 -23,52
-        A 23,23 0 1,0 23,52
-        Z
-    </string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">M -30,55 M 30,55 A 30,30 0 1,0 -30,55 A 30,30 0 1,0 30,55 Z</string>
 
     <!-- Like config_mainBuiltInDisplayCutout, but this path is used to report the
          one single bounding rect per device edge to the app via
@@ -437,15 +431,7 @@
          appearance of the cutout as much as possible, and may be smaller than
          config_mainBuiltInDisplayCutout
          -->
-    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
-        M 0,0
-        H -23
-        V 75
-        H 23
-        V 0
-        H 0
-        Z
-    </string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -30 V 104 H 30 V 0 H 0 Z</string>
 
     <!-- Whether the display cutout region of the main built-in display should be forced to
         black in software (to avoid aliasing or emulate a cutout that is not physically existent).
