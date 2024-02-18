@@ -1,8 +1,8 @@
-# Device tree repository for Alioth/in (Poco F3 / Mi 11x / Redmi K40)
+# Device tree repository for Psyche (Xiaomi 12X)
 
 ```
 #
-# Copyright (C) 2022-2023 VoidUI Project
+# Copyright (C) 2022-2024 VoidUI Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #

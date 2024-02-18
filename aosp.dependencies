@@ -8,12 +8,12 @@
     "target_path": "vendor/xiaomi/sm8250-common"
   },
   {
-    "repository": "device_xiaomi_alioth",
-    "target_path": "device/xiaomi/alioth"
+    "repository": "device_xiaomi_psyche",
+    "target_path": "device/xiaomi/psyche"
   },
   {
-    "repository": "vendor_xiaomi_alioth",
-    "target_path": "vendor/xiaomi/alioth"
+    "repository": "vendor_xiaomi_psyche",
+    "target_path": "vendor/xiaomi/psyche"
   },
   {
     "repository": "kernel_xiaomi_sm8250",
