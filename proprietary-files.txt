@@ -1,4 +1,4 @@
-# Unpinned blobs from psyche-user 13 TKQ1.220829.002 V14.0.5.0.TLDMIXM release-keys
+# Unpinned blobs from psyche-global-user 13 TKQ1.221114.001 V816.0.1.0.TLDMIXM release-keys
 
 # ACDB
 vendor/etc/acdbdata/Tutu/Tutu_Bluetooth_cal.acdb
@@ -467,8 +467,8 @@ vendor/lib64/libgf_hal.so
 vendor/lib64/vendor.xiaomi.hardware.fx.tunnel@1.0.so
 
 # HotwordEnrollment
--product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk
--product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk
+-product/priv-app/HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND/HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND.apk
+-product/priv-app/HotwordEnrollmentXGoogleHEXAGON_WIDEBAND/HotwordEnrollmentXGoogleHEXAGON_WIDEBAND.apk
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
 system_ext/framework/com.android.hotwordenrollment.common.util.jar
 
