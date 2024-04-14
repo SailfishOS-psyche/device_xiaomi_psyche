@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Build properties from a GMS certified device -->
+    <string-array name="config_certifiedBuildProperties" translatable="false">
+        <item>clark_retus</item> <!-- Build.PRODUCT -->
+        <item>clark</item> <!-- Build.DEVICE -->
+        <item>motorola</item> <!-- Build.MANUFACTURER -->
+        <item>motorola</item> <!-- Build.BRAND -->
+        <item>XT1575</item> <!-- Build.MODEL -->
+        <item>motorola/clark_retus/clark:6.0/MPHS24.49-18-8/4:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>2016-09-01</item> <!-- Build.SECURITY_PATCH -->
+        <item>4</item> <!-- Build.DEVICE_INITIAL_SDK_INT -->
+        <item>MPHS24.49-18-8</item> <!-- Build.ID -->
+        <item>user</item> <!-- Build.TYPE -->
+        <item>release-keys</item> <!-- Build.TAGS -->
+    </string-array>
+</resources>
