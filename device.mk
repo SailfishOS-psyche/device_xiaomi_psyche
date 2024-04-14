@@ -29,6 +29,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/camera/st_license.lic:$(TARGET_COPY_OUT_VENDOR)/etc/camera/st_license.lic
 
+# Certification Overlay
+PRODUCT_PACKAGES += \
+    CertificationOverlay
+
 # Dolby Support
 TARGET_USES_MIUI_DOLBY := true
 
